@@ -1,6 +1,6 @@
 {
   "name": "@jslibkit/fetchflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight fetch-based API handler with interceptors, auth lifecycle, and smart error handling",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
